@@ -3,7 +3,7 @@ A python script that automagically completes any mrkendall.co.uk task that has a
 
 ## How To Use
 
-Run the exe anywhere you want, then click on the mrkendall.co.uk tab so that it's focused
+Run the script anywhere you want, then click on the mrkendall.co.uk tab so that it's focused
 
 Wait until the program has finished
 
